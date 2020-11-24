@@ -1,4 +1,4 @@
-# Project name here
+# LOREM
 > Summary description here.
 
 
@@ -22,3 +22,10 @@ Fill me in please! Don't forget code examples:
     2
 
 
+
+```python
+say_hello("Sylvain")
+```
+
+    Hello Sylvain!
+    
